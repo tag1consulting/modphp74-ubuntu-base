@@ -31,4 +31,4 @@ jobs:
          platforms: linux/amd64,linux/arm64
          push: true
          tags: |
-           tag1consulting/php74-ubuntu-base:latest
+           tag1consulting/modphp74-ubuntu-base:latest
