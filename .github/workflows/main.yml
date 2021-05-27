@@ -29,7 +29,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v3
         with:
-          images: quay.io/tag1consulting/modphp74-ubi8-base
+          images: quay.io/tag1consulting/modphp74-ubuntu-base
 
       - name: Build and push
         uses: docker/build-push-action@v2
