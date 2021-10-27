@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20210827
+FROM ubuntu:focal-20211006
 
 LABEL name="php-base-ubuntu-modphp74" \
       maintainer="support@tag1consulting.com" \
